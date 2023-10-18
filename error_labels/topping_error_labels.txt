@@ -1,0 +1,9 @@
+Topping errors:
+- Quá tập trung | Topping - Topping too centered
+- Sốt trên mép | Topping - Sauce covering on the edge
+- Topping - Không đúng | incorrect portioning
+- Không hình tròn | Topping - Not circled
+- Phô mai cao | Topping - Cheese too high * with a core*
+- Topping - Không đều | Not even
+- Trộn lẫn | Topping - Bended
+- Không cân Topping - Not even half and half

@@ -1,0 +1,6 @@
+Edge errors:
+- Viền nhỏ | Edge - Too small
+- Viền k đều | Edge - Uneven
+- Viền to | Edge - Too big
+- Quá theo viền | Topping - Too strong shaping the edge
+- Viền thấp | Edge - Too low

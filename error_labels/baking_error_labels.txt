@@ -1,0 +1,4 @@
+Baking errors:
+- Màu nhạt | Baking - Pale
+- Cháy | Baking - Burnt
+- Không đốm | Baking - Does not have leopard-spotting

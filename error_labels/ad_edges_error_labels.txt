@@ -1,0 +1,3 @@
+Advanced Edge errors:
+- Thiếu bóng | too few balls
+- Nở viền không đủ | edge pizza is not enough swollen
